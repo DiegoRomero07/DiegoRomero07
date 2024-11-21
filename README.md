@@ -1,22 +1,47 @@
 <h1 align="center">Hi 👋, I'm Diego Romero</h1>
 
-### About me🧑:
-I am a Technician and Technologist in Software Development with hands-on experience in backend frameworks like NestJS.<br>
-I have completed internships as a NestJS Developer and as a GIS Developer using the ArcGIS JavaScript SDK to create geospatial applications.<br>
-I am interested in learning react, flutter, AI and Java 💖 to grow my knowledge in these Technologies.
+### About Me 🧑  
+I am a Technician and Technologist in Software Development with practical experience in backend frameworks like **NestJS**.<br>
+During my internships, I worked as a **NestJS Developer** and as a **GIS Developer**, utilizing the **ArcGIS JavaScript SDK** to create geospatial applications.<br>
+Currently, I am passionate about expanding my knowledge in **React**, **Flutter**, **Artificial Intelligence (AI)**, and **Java** 💖.<br>
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Web Development projects to enhance my frontend and backend skills.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Git, PostgreSQL, and NestJS.
-- 👯 I’m looking to collaborate with developers and teams on full stack web applications to grow and share knowledge.
-- 🌱 I’m currently learning **WEB Development Full-Stack**
-![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
+- 🔭 **Working on:** Web development projects to enhance my frontend and backend skills.  
+- 🌱 **Learning:** HTML, CSS, JavaScript, Git, PostgreSQL, and NestJS.  
+- 👯 **Collaborating:** I am eager to work with developers and teams on full-stack web applications to grow and share knowledge.  
+- 🚀 **Goal:** To become proficient in Full-Stack Web Development and contribute to innovative projects.  
 
 
 <br>
+<h3 align="left">Profundizando en:</h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
 <h3 align="left">Learning:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="javascript" width="40" height="40"/> </a> </p><br>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+</p><br>
 
 
 <hr width="36%" >

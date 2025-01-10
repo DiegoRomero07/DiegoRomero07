@@ -8,7 +8,7 @@ Currently, I am passionate about expanding my knowledge in **React**, **Flutter*
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 - 🔭 **Currently Working On:** Web development projects to enhance my frontend and backend skills.  
-- 🌱 **Learning:** HTML, CSS, JavaScript, Git, PostgreSQL, and NestJS.  
+- 🌱 **Learning:** HTML, CSS, JavaScript, Git, PostgreSQL, and Spring Boot.  
 - 👯 **Collaboration:** I am eager to work with developers and teams on full-stack web applications to grow and share knowledge.  
 - 🚀 **Goal:** To become proficient in Full-Stack Web Development and contribute to innovative projects.  
 
@@ -32,11 +32,8 @@ Currently, I am passionate about expanding my knowledge in **React**, **Flutter*
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>

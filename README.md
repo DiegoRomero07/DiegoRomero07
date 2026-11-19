@@ -3,7 +3,7 @@
 ### About Me 🧑  
 I am a Technician and Technologist in Software Development with practical experience in backend frameworks like **NestJS**.  
 During my internships, I worked as a **NestJS Developer** and as a **GIS Developer**, utilizing the **ArcGIS JavaScript SDK** to create geospatial applications.  
-Currently, I am passionate about expanding my knowledge in **React**, **Flutter**, **Artificial Intelligence (AI)**, and **Java** 💖.  
+Currently, I am passionate about expanding my knowledge in **React**, **Artificial Intelligence (AI)**, and **Java** 💖.  
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
